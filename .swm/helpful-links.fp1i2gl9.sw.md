@@ -1,7 +1,11 @@
 ---
-title: Helpful Link(s)
+title: Helpful Links
 ---
 <https://stackoverflow.com/questions/24793363/how-to-run-a-qt-program-without-qt-itself-being-installed>
+
+<http://www.staroceans.org/e-book/ATourofC%2B%2B.pdf>
+
+<https://www.w3schools.com/>
 
 &nbsp;
 
