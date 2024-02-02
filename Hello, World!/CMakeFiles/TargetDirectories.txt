@@ -1,0 +1,9 @@
+C:/Users/Brian Ou/Downloads/build-untitled-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/untitled.dir
+C:/Users/Brian Ou/Downloads/build-untitled-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/Users/Brian Ou/Downloads/build-untitled-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/Brian Ou/Downloads/build-untitled-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+C:/Users/Brian Ou/Downloads/build-untitled-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/install.dir
+C:/Users/Brian Ou/Downloads/build-untitled-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+C:/Users/Brian Ou/Downloads/build-untitled-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+C:/Users/Brian Ou/Downloads/build-untitled-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/untitled_autogen_timestamp_deps.dir
+C:/Users/Brian Ou/Downloads/build-untitled-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/untitled_autogen.dir
