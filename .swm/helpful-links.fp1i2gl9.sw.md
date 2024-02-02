@@ -1,5 +1,5 @@
 ---
-title: Helpful Links
+title: Helpful Link(s)
 ---
 <https://stackoverflow.com/questions/24793363/how-to-run-a-qt-program-without-qt-itself-being-installed>
 
