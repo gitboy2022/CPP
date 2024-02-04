@@ -5,7 +5,7 @@ title: Helpful Links
 
 <http://www.staroceans.org/e-book/ATourofC%2B%2B.pdf>
 
-<https://www.w3schools.com/>
+<https://isocpp.org/faq>
 
 &nbsp;
 
