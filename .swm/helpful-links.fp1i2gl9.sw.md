@@ -1,7 +1,7 @@
 ---
 title: Helpful Links
 ---
-<https://stackoverflow.com/questions/24793363/how-to-run-a-qt-program-without-qt-itself-being-installed>
+<http://tinyurl.com/449xnm9w>
 
 <http://www.staroceans.org/e-book/ATourofC%2B%2B.pdf>
 
