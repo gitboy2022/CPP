@@ -5,7 +5,7 @@ title: Helpful Links
 
 <https://stackoverflow.com/>
 
-<https://isocpp.org/faq>
+<https://isocpp.org/get-started>
 
 &nbsp;
 
