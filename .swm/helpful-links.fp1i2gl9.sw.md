@@ -3,11 +3,9 @@ title: Helpful Links
 ---
 <http://tinyurl.com/449xnm9w>
 
-<http://www.staroceans.org/e-book/ATourofC%2B%2B.pdf>
+<https://stackoverflow.com/>
 
 <https://isocpp.org/faq>
-
-<https://www.geeksforgeeks.org/>
 
 &nbsp;
 
